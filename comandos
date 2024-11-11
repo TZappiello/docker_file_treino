@@ -1,0 +1,4 @@
+comandos para rodar o container e usar o app
+
+docker build -t java-input-output-app .
+docker run -it java-input-output-app
